@@ -4,6 +4,3 @@
 
 [functions]
   node_version = "18"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
